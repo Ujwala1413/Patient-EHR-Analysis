@@ -1,5 +1,7 @@
 # PATIENT ELECTRONIC HOSPITAL RECORDS ANALYSIS
 
+### Dashboard snapshot link: ![image](https://github.com/user-attachments/assets/a88c89c4-c251-4d88-ac80-45b39e5d4e36)
+
 ## Problem Statement:
 Hospitals encounter significant difficulties in managing patient admissions efficiently due to varying factors such as patient age, medical conditions, and admission urgency. 
 These challenges are compounded by inconsistent patterns in admissions, high billing costs, and complex insurance processes. The lack of clear insight into how these variables interact 
